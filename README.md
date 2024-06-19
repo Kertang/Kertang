@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I completed a B.A. in Applied Mathematics and Computer Science at Syktyvkar State University Russia
+### I completed a B.A. in Applied Mathematics and Computer Science at Syktyvkar State University Russia
 
 <!--
 **Kertang/Kertang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
